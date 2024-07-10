@@ -12,4 +12,4 @@ Gameplay Instructions:
 
 How To Run:
 
-Run 'Hand Cricket Game.ipynb' file on any python compiler and start experience the hand cricket game in a digital format 
+Run 'HandCricketGame.py' file on any python compiler and start experience the hand cricket game in a digital format 
